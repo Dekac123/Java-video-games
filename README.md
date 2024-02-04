@@ -1,0 +1,1 @@
+These are pretty old projects in java I did years ago (probably five-six years ago), back in high school when I wanted to become game developer. I switched to the engineering side but still developing fun projects in java is still in my heart and here I present some of my work.
